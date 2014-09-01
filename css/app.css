@@ -1,0 +1,7 @@
+.container-fluid {
+  margin-top: 1em;
+}
+
+#current-view {
+  cursor: url(../img/crosshair.gif) 50 50, crosshair;
+}
